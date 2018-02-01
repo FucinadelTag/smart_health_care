@@ -41,6 +41,10 @@
 
         </div>
 
+        <div class="spazio_bianco" />
+
+        <img src="https://prismic-io.s3.amazonaws.com/smarthealthcare/929d862cc0b0a40acf74f5db111b97d58e45fbe0_cuore.jpg" alt="" />
+
         <h1 class="title is-2">Cosa vendiamo</h1>
 
         <div  class="box columns vendiamo">
@@ -52,7 +56,7 @@
                     Siamo continuamente alla ricerca di prodotti semplici e funzionali adatti ad un pubblico che vuole la semplicità!
                 </p>
                 <p>
-                    <span class="title is-4">Di cosa ci tiamo occupando:</span>
+                    <span class="title is-4">I nostri prodotti:</span>
                 </p>
                 <ul>
                     <li>Misuratori di pressione</li>
