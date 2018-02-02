@@ -8,11 +8,11 @@
                             <img class="imglogo" src="https://prismic-io.s3.amazonaws.com/smarthealthcare/b04bfaa832e5775a3d9de4122845b6d8e3915b98_shc-logo3.png" alt="Solede">
                         </a>
 
-                        <button class="button navbar-burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
+                        <!-- <button class="button navbar-burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
                             <span></span>
                             <span></span>
                             <span></span>
-                        </button>
+                        </button> -->
                     </div>
                     <div class="navbar-menu">
                         <div class="navbar-start">
@@ -116,7 +116,7 @@
 <style lang="scss">
 .myMenu {
     img {
-        max-height: 3.5rem;
+        max-height: 3.2rem;
     }
 }
 </style>
